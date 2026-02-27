@@ -1,0 +1,11 @@
+{
+  "name": "xydevs-proxy",
+  "version": "1.0.0",
+  "description": "CDN Proxy for Vercel",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
